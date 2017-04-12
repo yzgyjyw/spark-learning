@@ -1,4 +1,4 @@
-package com.njust
+package com.njust.position
 
 import org.apache.spark.{SparkConf, SparkContext}
 
